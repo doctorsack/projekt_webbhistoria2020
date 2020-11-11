@@ -1,1 +1,10 @@
 Här kan ni dokumentera tester:
+
+
+
+1. 1969 Filmklipp: Så tänker man sig framtiden för internet
+2. 1978 Filmklipp: Elever får testa datorer – men det är inte utan oro
+3. 1989 World wide web skapas – nu kan internet bli en publiksuccé
+4. 1990 Monopolen faller – och Sverige får en kommersiell internetleverantör
+5. 2002 Amerikanska flottan skapar TOR – och nätet blir lite mera hemligt
+6. 2019 Techjättarna säger att “framtiden är privat
