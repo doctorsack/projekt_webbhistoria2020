@@ -132,4 +132,19 @@ float:right;
 padding-right:1px;
 }
 
+.Webbpub p
+{
+font-size:1.2em;
+}
 
+.Eprints.bild
+{
+float:right;
+padding-right:1px;
+}
+
+.CMS-bild
+{
+float:left;
+padding-left:1px;
+}
