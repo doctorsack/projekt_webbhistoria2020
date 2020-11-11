@@ -1,0 +1,135 @@
+.Artikel_1
+{
+margin-bottom: 150px;
+}
+
+.Artikel_1 p 
+{
+font-size:1.2em;
+}
+
+.Artikel_1_video
+{
+float:bottom;
+}
+
+
+h1 
+{
+font-size:3em;
+text-align:center;
+}
+
+
+h2 
+{
+ font-size:2em;
+}
+
+a 
+{
+color:blue;
+}
+
+iframe 
+{
+float:right;
+margin-right: 130px;
+}
+
+.Artikel_2
+{
+margin-bottom: 150px;
+}
+
+.Artikel_2 p 
+{
+font-size: 1.2em;
+}
+
+.Artikel_3 p 
+{
+font-size:1.2em;
+}
+
+img 
+{
+float:right;
+margin-right: 130px;
+}
+
+.Artikel_3 a
+{
+color:blue;
+}
+
+.Artikel_3 h3
+{
+font-size: 1.5em;
+}
+
+
+nav h1
+{
+font-size: 2em;
+}
+
+body 
+{
+background-image:url("https://coolbackgrounds.io/images/backgrounds/white/white-triangle-369b8d2d.jpg")
+}
+
+.Artikel_4 p
+{
+ font-size: 1.2em;
+}
+
+.Artikel_5 p  
+{
+font-size: 1.2em;
+}
+
+
+.Artikel_6 p
+{
+font-size: 1.2em;
+}
+
+footer
+{
+margin-top: 12.5%;
+background-color: lightgray;
+padding-bottom: 7.5%;
+display:flex;
+align-items: center;
+justify-content:space-around;
+}
+footer div
+{
+font-size: 100px;
+}
+
+.Img_tor
+{
+float:left;
+}
+
+
+.darknet_bild
+{
+float:right;
+padding-right:10%;
+}
+
+.Artikel_7 p  
+{
+font-size: 1.2em;
+}
+
+.Corona_Bild
+{
+float:right;
+padding-right:1px;
+}
+
+
